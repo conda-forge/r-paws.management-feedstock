@@ -1,11 +1,11 @@
-About r-paws.management
-=======================
+About r-paws.management-feedstock
+=================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-paws.management-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/paws-r/paws
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-paws.management-feedstock/blob/main/LICENSE.txt)
 
 Summary: Interface to 'Amazon Web Services' management and governance services, including 'CloudWatch' application and infrastructure monitoring, 'Auto Scaling' for automatically scaling resources, and more <https://aws.amazon.com/>.
 
