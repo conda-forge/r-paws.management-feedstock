@@ -1,4 +1,4 @@
-{% set version = "0.10.0" %}
+{% set version = "0.11.0" %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,7 +9,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/paws.management_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/paws.management/paws.management_{{ version }}.tar.gz
-  sha256: f19c62b2c73fc051058da3754dd78853a0257d2fffa0c089619ecf9169fa52fb
+  sha256: f9b305e44c4fb4d415527aa224b5f4e99d749b1fec0eb2e557ebdce02f1f90fe
 
 build:
   number: 0
